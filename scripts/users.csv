@@ -1,0 +1,10 @@
+UserName,GivenName,Surname,Department,JobTitle,EmployeeId,HireDate,Manager,Enabled
+tom.okafor,Tom,Okafor,Finance,Finance Manager,E1002,2023-04-03,,yes
+grace.bennett,Grace,Bennett,Clinical,Ward Manager,E1005,2021-03-01,,yes
+sofia.marino,Sofia,Marino,HR,HR Manager,E1007,2022-02-14,,yes
+priya.shah,Priya,Shah,Finance,Accounts Payable Officer,E1001,2024-01-15,tom.okafor,yes
+james.turner,James,Turner,Finance,Payroll Officer,E1008,2022-09-01,tom.okafor,yes
+laura.chen,Laura,Chen,Procurement,Procurement Officer,E1013,2023-06-12,tom.okafor,yes
+daniel.kim,Daniel,Kim,Clinical,Clinical Coder,E1006,2024-05-20,grace.bennett,yes
+hannah.lewis,Hannah,Lewis,IT,Service Desk Analyst,E1003,2025-01-06,sofia.marino,yes
+amira.hassan,Amira,Hassan,Clinical,Staff Nurse,E1021,+3,grace.bennett,no
